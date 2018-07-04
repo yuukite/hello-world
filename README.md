@@ -8,3 +8,5 @@ and edit on local pc.
 2回目ユーザー確認。ユーザー情報にyuukite入れてある。グローバルユーザーは空欄。
 
 test
+
+test2
